@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/8665620_map_location_dot_icon.png</file>
+        <file>image/9055454_bxs_movie_play_icon.png</file>
+        <file>image/10219198_cctv_camera_security_secure_protection_icon _big.png</file>
+        <file>image/10219198_cctv_camera_security_secure_protection_icon.png</file>
+        <file>image/461381_settings_configuration_options_tool_tools_icon.png</file>
+        <file>image/9004781_file_document_paper_page_icon.png</file>
+        <file>image/111057_reload_arrow_icon.png</file>
+        <file>image/111060_down_arrow_left_icon.png</file>
+        <file>image/111061_down_right_arrow_icon.png</file>
+        <file>image/111066_down_icon.png</file>
+        <file>image/111065_left_icon.png</file>
+        <file>image/111064_right_icon.png</file>
+        <file>image/111063_right_up_arrow_icon.png</file>
+        <file>image/111062_up_arrow_left_icon.png</file>
+        <file>image/111067_up_icon.png</file>
+        <file>image/1303882_delete_minimize_minus_remove_sign_icon.png</file>
+        <file>image/1303884_cancel_close_cross_delete_exit_icon.png</file>
+        <file>image/8673614_ic_fluent_maximize_filled_icon.png</file>
+        <file>image/tortoise.jpg</file>
+        <file>image/sunny.png</file>
+        <file>image/3671645_add_solid_icon.png</file>
+        <file>image/3671809_minus_solid_icon.png</file>
+        <file>image/211939_high_volume_icon.png</file>
+        <file>image/211942_volume_mute_icon.png</file>
+    </qresource>
+</RCC>

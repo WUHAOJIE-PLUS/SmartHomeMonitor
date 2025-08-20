@@ -1,0 +1,290 @@
+2025-08-19 19:20:32,745  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:51655 has connect.
+2025-08-19 19:20:54,306  [DEBUG]:[BusinessService.cpp:38] [process] :username does not exist
+2025-08-19 19:21:06,487  [INFO]:[BusinessService.cpp:149] [process] :salt: 41psdq55 in TASK_TYPE_REGISTER_SECTION1
+2025-08-19 19:21:06,506  [INFO]:[BusinessService.cpp:191] [process] :encoded: 769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 19:21:20,101  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 19:21:20,103  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 19:21:24,282  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:51655 has close.
+2025-08-19 20:30:03,954  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53523 has connect.
+2025-08-19 20:30:26,501  [DEBUG]:[BusinessService.cpp:38] [process] :username does not exist
+2025-08-19 20:30:29,997  [INFO]:[BusinessService.cpp:149] [process] :salt: 5EV2aF3p in TASK_TYPE_REGISTER_SECTION1
+2025-08-19 20:30:30,017  [INFO]:[BusinessService.cpp:191] [process] :encoded: 7e6ce0f33e095055df4f689620e2219c
+2025-08-19 20:30:33,046  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 20:30:33,047  [INFO]:[BusinessService.cpp:104] [process] :encoded:7e6ce0f33e095055df4f689620e2219c
+2025-08-19 20:30:34,502  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53523 has close.
+2025-08-19 20:30:44,592  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53548 has connect.
+2025-08-19 20:30:51,799  [DEBUG]:[BusinessService.cpp:38] [process] :username does not exist
+2025-08-19 20:30:54,029  [INFO]:[BusinessService.cpp:149] [process] :salt: caP9j16K in TASK_TYPE_REGISTER_SECTION1
+2025-08-19 20:30:54,036  [INFO]:[BusinessService.cpp:191] [process] :encoded: 4fb2c85bb8970ae53d9b6dd29fdf8a17
+2025-08-19 20:30:55,776  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 20:30:55,778  [INFO]:[BusinessService.cpp:104] [process] :encoded:4fb2c85bb8970ae53d9b6dd29fdf8a17
+2025-08-19 20:30:57,161  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53548 has close.
+2025-08-19 20:36:32,853  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53779 has connect.
+2025-08-19 20:36:41,713  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 20:36:41,717  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 20:36:42,988  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53779 has close.
+2025-08-19 20:37:40,633  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53824 has connect.
+2025-08-19 20:37:46,951  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53824 has close.
+2025-08-19 20:37:49,913  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53828 has connect.
+2025-08-19 20:37:54,734  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53828 has close.
+2025-08-19 20:38:03,555  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53833 has connect.
+2025-08-19 20:38:12,428  [DEBUG]:[BusinessService.cpp:38] [process] :username does not exist
+2025-08-19 20:38:17,402  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 20:38:17,404  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 20:38:18,734  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53833 has close.
+2025-08-19 20:39:08,503  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53873 has connect.
+2025-08-19 20:39:24,932  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53873 has close.
+2025-08-19 20:39:28,270  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53894 has connect.
+2025-08-19 20:39:34,582  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 20:39:34,584  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 20:39:35,864  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53894 has close.
+2025-08-19 20:40:42,281  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53918 has connect.
+2025-08-19 20:40:46,005  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53918 has close.
+2025-08-19 20:40:54,032  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53924 has connect.
+2025-08-19 20:41:00,709  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 20:41:00,709  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 20:41:12,515  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 20:41:14,021  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53924 has close.
+2025-08-19 20:41:21,759  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53939 has connect.
+2025-08-19 20:41:29,642  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 20:41:29,644  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 20:41:32,173  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53939 has close.
+2025-08-19 20:43:03,042  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53981 has connect.
+2025-08-19 20:43:09,485  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 20:43:09,488  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 20:43:11,005  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:53981 has close.
+2025-08-19 20:44:46,951  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:54039 has connect.
+2025-08-19 20:44:58,535  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 20:44:58,538  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 20:44:59,833  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:54039 has close.
+2025-08-19 21:21:29,930  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55235 has connect.
+2025-08-19 21:21:36,782  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 21:21:36,793  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 21:21:38,174  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55235 has close.
+2025-08-19 21:22:24,106  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55272 has connect.
+2025-08-19 21:22:30,412  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 21:22:30,414  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 21:22:32,164  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55272 has close.
+2025-08-19 21:29:46,318  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55518 has connect.
+2025-08-19 21:29:48,723  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55518 has close.
+2025-08-19 21:31:34,671  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55586 has connect.
+2025-08-19 21:31:43,515  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 21:31:43,520  [DEBUG]:[BusinessService.cpp:92] [process] :clientEncoded error
+2025-08-19 21:31:49,579  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 21:31:49,580  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 21:31:50,796  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55586 has close.
+2025-08-19 21:35:19,539  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55757 has connect.
+2025-08-19 21:35:30,760  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 21:35:31,785  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 21:35:31,786  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 21:35:35,137  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55757 has close.
+2025-08-19 21:38:18,293  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55851 has connect.
+2025-08-19 21:38:24,350  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 21:38:24,353  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 21:38:26,484  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55851 has close.
+2025-08-19 21:39:31,209  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55891 has connect.
+2025-08-19 21:39:40,978  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 21:39:40,979  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 21:39:42,664  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55891 has close.
+2025-08-19 21:42:36,826  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55982 has connect.
+2025-08-19 21:42:45,553  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 21:42:45,555  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 21:42:46,710  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:55982 has close.
+2025-08-19 21:52:56,162  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:56408 has connect.
+2025-08-19 21:53:02,746  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 21:53:02,750  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 21:53:04,090  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:56408 has close.
+2025-08-19 21:54:32,874  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:56449 has connect.
+2025-08-19 21:54:38,484  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 21:54:38,486  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 21:54:39,628  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:56449 has close.
+2025-08-19 21:56:17,788  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:56485 has connect.
+2025-08-19 21:56:25,556  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 21:56:25,558  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 21:56:26,843  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:56485 has close.
+2025-08-19 21:58:20,549  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:56532 has connect.
+2025-08-19 21:58:29,629  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 21:58:29,632  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 21:58:31,378  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:56532 has close.
+2025-08-19 22:06:19,207  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:56748 has connect.
+2025-08-19 22:06:25,404  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 22:06:25,407  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 22:06:26,586  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:56748 has close.
+2025-08-19 22:18:59,346  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:57022 has connect.
+2025-08-19 22:19:20,111  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 22:19:20,114  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 22:19:21,904  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:57022 has close.
+2025-08-19 22:21:13,143  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:57095 has connect.
+2025-08-19 22:21:19,552  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 22:21:19,555  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 22:21:21,395  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:57095 has close.
+2025-08-19 22:23:54,605  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:57133 has connect.
+2025-08-19 22:24:00,619  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 22:24:00,622  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 22:24:04,095  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:57133 has close.
+2025-08-19 22:25:15,844  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:57167 has connect.
+2025-08-19 22:25:22,775  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 22:25:22,776  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 22:25:24,004  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:57167 has close.
+2025-08-19 22:27:03,968  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:57203 has connect.
+2025-08-19 22:27:09,655  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 22:27:09,657  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 22:27:10,763  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:57203 has close.
+2025-08-19 22:27:49,415  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:57230 has connect.
+2025-08-19 22:27:55,996  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 22:27:55,997  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 22:27:57,346  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:57230 has close.
+2025-08-19 22:28:27,053  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:57241 has connect.
+2025-08-19 22:28:37,253  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 22:28:37,254  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 22:28:38,532  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:57241 has close.
+2025-08-19 22:37:18,193  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58015 has connect.
+2025-08-19 22:37:27,122  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 22:37:27,123  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 22:37:28,350  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58015 has close.
+2025-08-19 22:37:39,868  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58017 has connect.
+2025-08-19 22:37:49,396  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 22:37:49,397  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 22:37:50,741  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58017 has close.
+2025-08-19 22:40:38,076  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58082 has connect.
+2025-08-19 22:40:47,253  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-19 22:40:47,256  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-19 22:40:48,420  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58082 has close.
+2025-08-19 22:42:13,809  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58106 has connect.
+2025-08-20 02:58:20,575  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 02:58:20,577  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 02:58:22,030  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58106 has close.
+2025-08-20 02:59:09,939  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58125 has connect.
+2025-08-20 02:59:17,079  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 02:59:17,082  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 02:59:18,602  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58125 has close.
+2025-08-20 02:59:44,952  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58136 has connect.
+2025-08-20 02:59:59,144  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 02:59:59,146  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 03:00:00,187  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58136 has close.
+2025-08-20 03:00:36,144  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58143 has connect.
+2025-08-20 03:00:44,530  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 03:00:44,531  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 03:00:46,063  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58143 has close.
+2025-08-20 03:11:28,049  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58290 has connect.
+2025-08-20 03:11:30,223  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58290 has close.
+2025-08-20 03:14:12,434  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58350 has connect.
+2025-08-20 03:14:17,154  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58350 has close.
+2025-08-20 03:14:18,233  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58353 has connect.
+2025-08-20 03:14:20,854  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58353 has close.
+2025-08-20 03:14:23,085  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58355 has connect.
+2025-08-20 03:14:28,002  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58355 has close.
+2025-08-20 03:14:29,639  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58364 has connect.
+2025-08-20 03:14:32,018  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58364 has close.
+2025-08-20 03:14:33,537  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58366 has connect.
+2025-08-20 03:14:36,589  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58366 has close.
+2025-08-20 03:14:38,030  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58370 has connect.
+2025-08-20 03:14:40,472  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58370 has close.
+2025-08-20 03:14:42,019  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58371 has connect.
+2025-08-20 03:14:44,792  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58371 has close.
+2025-08-20 03:14:47,478  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58374 has connect.
+2025-08-20 03:14:50,346  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58374 has close.
+2025-08-20 03:14:59,430  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58378 has connect.
+2025-08-20 03:15:01,426  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58378 has close.
+2025-08-20 03:15:04,675  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58380 has connect.
+2025-08-20 03:15:06,789  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58380 has close.
+2025-08-20 03:15:07,982  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58381 has connect.
+2025-08-20 03:15:10,085  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58381 has close.
+2025-08-20 03:17:28,432  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58412 has connect.
+2025-08-20 03:17:31,568  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58412 has close.
+2025-08-20 03:17:33,096  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58413 has connect.
+2025-08-20 03:17:35,328  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58413 has close.
+2025-08-20 03:17:36,442  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58414 has connect.
+2025-08-20 03:17:38,550  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58414 has close.
+2025-08-20 03:18:09,668  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58430 has connect.
+2025-08-20 03:18:11,855  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58430 has close.
+2025-08-20 03:18:12,757  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58432 has connect.
+2025-08-20 03:18:14,852  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58432 has close.
+2025-08-20 03:18:16,040  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58433 has connect.
+2025-08-20 03:18:18,444  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58433 has close.
+2025-08-20 03:19:20,066  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58475 has connect.
+2025-08-20 03:19:32,068  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 03:19:32,070  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 03:19:33,296  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58475 has close.
+2025-08-20 03:19:56,865  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58483 has connect.
+2025-08-20 03:20:08,415  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 03:20:08,416  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 03:20:09,702  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58483 has close.
+2025-08-20 03:39:02,715  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58747 has connect.
+2025-08-20 03:39:05,332  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58747 has close.
+2025-08-20 03:39:06,357  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58748 has connect.
+2025-08-20 03:39:15,821  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 03:39:15,822  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 03:39:17,204  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58748 has close.
+2025-08-20 03:39:28,336  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58752 has connect.
+2025-08-20 03:39:56,208  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 03:39:56,210  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 03:39:57,296  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58752 has close.
+2025-08-20 03:40:36,041  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58758 has connect.
+2025-08-20 03:40:46,012  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 03:40:46,021  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 03:40:48,175  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58758 has close.
+2025-08-20 03:41:36,959  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58791 has connect.
+2025-08-20 03:41:46,753  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 03:41:46,754  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 03:41:51,651  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58791 has close.
+2025-08-20 03:45:51,831  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58883 has connect.
+2025-08-20 03:46:01,755  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 03:46:01,756  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 03:46:03,080  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58883 has close.
+2025-08-20 03:46:52,157  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58915 has connect.
+2025-08-20 03:46:59,595  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 03:46:59,597  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 03:47:00,749  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58915 has close.
+2025-08-20 03:48:27,407  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58924 has connect.
+2025-08-20 03:48:33,258  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 03:48:33,261  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 03:48:34,729  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58924 has close.
+2025-08-20 03:49:49,509  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58944 has connect.
+2025-08-20 03:49:55,712  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 03:49:55,714  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 03:49:56,917  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58944 has close.
+2025-08-20 03:51:57,121  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58971 has connect.
+2025-08-20 03:52:05,652  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 03:52:05,655  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 03:52:06,771  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58971 has close.
+2025-08-20 03:54:09,770  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58987 has connect.
+2025-08-20 03:54:16,526  [DEBUG]:[BusinessService.cpp:38] [process] :username does not exist
+2025-08-20 03:54:18,309  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:58987 has close.
+2025-08-20 04:05:58,070  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:61079 has connect.
+2025-08-20 04:08:14,684  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:61156 has connect.
+2025-08-20 04:08:22,300  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 04:08:22,302  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 04:08:22,773  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:61156 has close.
+2025-08-20 04:09:14,905  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:61169 has connect.
+2025-08-20 04:09:21,668  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 04:09:21,671  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 04:09:22,038  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:61169 has close.
+2025-08-20 04:09:38,124  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:61174 has connect.
+2025-08-20 04:09:44,761  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 04:09:44,765  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 04:09:45,071  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:61174 has close.
+2025-08-20 04:12:24,032  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:61257 has connect.
+2025-08-20 04:12:24,497  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:61258 has connect.
+2025-08-20 04:12:34,429  [DEBUG]:[BusinessService.cpp:38] [process] :username does not exist
+2025-08-20 04:12:40,151  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 04:12:40,151  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 04:12:40,495  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:61258 has close.
+2025-08-20 04:13:43,481  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:61257 has close.
+2025-08-20 12:39:28,018  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:62611 has connect.
+2025-08-20 12:39:42,978  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 12:39:42,980  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 12:39:49,071  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 12:39:49,470  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 12:39:53,218  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:62611 has close.
+2025-08-20 12:39:57,128  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:62619 has connect.
+2025-08-20 12:40:06,076  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 12:40:06,077  [INFO]:[BusinessService.cpp:104] [process] :encoded:769c71adc27ea07ce81ae68bee1b9c53
+2025-08-20 12:40:06,496  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:62619 has close.
+2025-08-20 14:45:37,478  [INFO]:[SmartHomeMonitorServer.cpp:35] [onConnection] :tcp: 172.16.32.133:8000 --> 172.16.32.1:52838 has connect.
+2025-08-20 14:46:01,440  [DEBUG]:[BusinessService.cpp:38] [process] :username does not exist
+2025-08-20 14:46:04,073  [INFO]:[BusinessService.cpp:149] [process] :salt: us87h0F5 in TASK_TYPE_REGISTER_SECTION1
+2025-08-20 14:46:04,104  [INFO]:[BusinessService.cpp:191] [process] :encoded: d94e6ba64403bf3851605a6fc72dda1c
+2025-08-20 14:46:06,469  [INFO]:[BusinessService.cpp:55] [process] :username exist in TASK_TYPE_LOGIN_SECTION1
+2025-08-20 14:46:06,474  [INFO]:[BusinessService.cpp:104] [process] :encoded:d94e6ba64403bf3851605a6fc72dda1c
+2025-08-20 14:46:06,914  [INFO]:[SmartHomeMonitorServer.cpp:79] [onClose] :tcp: 172.16.32.133:8000 --> 172.16.32.1:52838 has close.
